@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first Odin Project. I would make HTML website using VS Code, GitHub, HTML. After this project, I would aquir how HTML works, and brief understanding how to use GitHub and VS code. I hope I'd get used to command line.
